@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+python = "^3.10"
+fastapi = "^0.89.1"
+uvicorn = "^0.20.0"
+sqlalchemy = "^1.4.46"
+psycopg2 = "^2.9.5"
+python-dotenv = "^0.21.1"
+fastapi-users = "^10.3.0"
+fastapi-users-db-sqlalchemy = "^4.0.4"
+tqdm = "^4.64.1"
+requests = "^2.28.2"
+=======
+fastapi
+uvicorn
+mysql-connector-python
+sqlalchemy
+psycopg2
+python-dotenv
+fastapi-users
+fastapi-users-db-sqlalchemy
+tqdm
+requests
+>>>>>>> c8d04fdcdc5e046d7e737ad3d794493c6af30596
